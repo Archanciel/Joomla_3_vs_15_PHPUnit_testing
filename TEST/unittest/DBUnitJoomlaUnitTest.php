@@ -44,11 +44,11 @@ class DBUnitJoomlaUnitTest extends PHPUnit_Extensions_Database_TestCase {
 // 		$dbURLPHP5_3_6_andLater = 'mysql:host=localhost;dbname=plucon15_dev;charset=UTF-8';
 // 		$pdo = new PDO ( $dbURLPHP5_3_6_andLater, 'root', '' );
 
-		$dbURLBeforePHP5_3_6 = 'mysql:host=localhost;dbname=pluscon15_dev';
+		$dbURLBeforePHP5_3_6 = 'mysql:host=localhost;dbname=pluscon3x_dev_test';
 		$options = array (PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8' );
 		$pdo = new PDO ( $dbURLBeforePHP5_3_6, 'root', '', $options );	// no pw for root !
 				
-		return $this->createDefaultDBConnection ( $pdo, 'pluscon15_dev' );
+		return $this->createDefaultDBConnection ( $pdo, 'pluscon3x_dev_test' );
 	}
 	
 	/**

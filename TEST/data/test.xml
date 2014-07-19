@@ -2,14 +2,12 @@
 <dataset>
 	<table name="jos_content">
 		<column>id</column>
+		<column>asset_id</column>
 		<column>title</column>
 		<column>alias</column>
-		<column>title_alias</column>
 		<column>introtext</column>
 		<column>fulltext</column>
 		<column>state</column>
-		<column>sectionid</column>
-		<column>mask</column>
 		<column>catid</column>
 		<column>created</column>
 		<column>created_by</column>
@@ -24,18 +22,20 @@
 		<column>urls</column>
 		<column>attribs</column>
 		<column>version</column>
-		<column>parentid</column>
 		<column>ordering</column>
 		<column>metakey</column>
 		<column>metadesc</column>
 		<column>access</column>
 		<column>hits</column>
 		<column>metadata</column>
+		<column>featured</column>
+		<column>language</column>
+		<column>xreference</column>
 		<row>
 			<value>100001</value> <!-- id -->
+			<value></value> <!-- asset_id -->
 			<value>Great Barrier Reef</value> <!-- title -->
 			<value>great-barrier-reef</value> <!-- alias -->
-			<value></value> <!-- title_alias -->
 			<value>
 				<p>The Great Barrier Reef is the largest coral reef system composed
 					of over 2,900 individual reefs[3] and 900 islands stretching for
@@ -71,8 +71,6 @@
 					region, generating AU$ 1 billion per year.</p>
 			</value> <!-- fulltext -->
 			<value>1</value> <!-- state -->
-			<value>0</value> <!-- sectionid -->
-			<value>0</value> <!-- mask -->
 			<value>24</value> <!-- catid -->
 			<value>2009-06-22 11:07:08</value> <!-- created -->
 			<value>62</value> <!-- created_by -->
@@ -87,13 +85,15 @@
 			<value></value> <!-- urls -->
 			<value></value> <!-- attribs -->
 			<value></value> <!-- version -->
-			<value></value> <!-- parentid -->
 			<value></value> <!-- ordering -->
 			<value></value> <!-- metakey -->
 			<value></value> <!-- metadesc -->
 			<value></value> <!-- access -->
 			<value>1</value> <!-- hits -->
 			<value></value> <!-- metadata -->
+			<value></value> <!-- featured -->
+			<value></value> <!-- language -->
+			<value></value> <!-- xreference -->
 		</row>
 	</table>
 

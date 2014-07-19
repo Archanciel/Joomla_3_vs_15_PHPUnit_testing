@@ -29,14 +29,15 @@ define ( 'JPATH_LIBRARIES', JPATH_BASE . DS . 'libraries' );
 define ( 'JPATH_METHODS', JPATH_ROOT . DS . 'methods' );
 
 // Load the library importer, datbase + table classes and configuration
-require_once (JPATH_LIBRARIES . DS . 'joomla' . DS . 'environment' . DS . 'request.php');
-require_once (JPATH_LIBRARIES . DS . 'joomla' . DS . 'version.php');
-require_once (JPATH_LIBRARIES . DS . 'joomla' . DS . 'base' . DS . 'object.php');
+require_once (JPATH_LIBRARIES . DS . 'import.legacy.php');
+require_once (JPATH_LIBRARIES . DS . 'legacy' . DS . 'request' . DS . 'request.php');
+require_once (JPATH_LIBRARIES . DS . 'cms' . DS . 'version' . DS . 'version.php');
+require_once (JPATH_LIBRARIES . DS . 'joomla' . DS . 'object' . DS . 'object.php');
 
-require_once (JPATH_LIBRARIES . DS . 'joomla' . DS . 'import.php');
 require_once (JPATH_LIBRARIES . DS . 'joomla' . DS . 'database' . DS . 'database.php');
-require_once (JPATH_LIBRARIES . DS . 'joomla' . DS . 'database' . DS . 'table.php');
+require_once (JPATH_LIBRARIES . DS . 'joomla' . DS . 'table' . DS . 'table.php');
 require_once (JPATH_CONFIGURATION . DS . 'configuration.php');
+require_once (JPATH_LIBRARIES . DS . 'cms.php');
 
 // Load the TestLoader
 require_once dirname ( __FILE__ ) . '\TestLoader.php';

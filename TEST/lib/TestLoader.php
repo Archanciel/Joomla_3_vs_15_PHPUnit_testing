@@ -32,7 +32,7 @@ class TestLoader {
 		}
 		
 		// Add the folder to the loader include path
-		JModel::addIncludePath ( JPATH_ROOT . '/components/com_' . $explodedPath ['component'] . '/' . $explodedPath ['type'] . 's' );
+		JModelLegacy::addIncludePath ( JPATH_ROOT . '/components/com_' . $explodedPath ['component'] . '/' . $explodedPath ['type'] . 's' );
 		
 		return self::loadJoomlaClass ( $classname );
 	}
