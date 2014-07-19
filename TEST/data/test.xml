@@ -1,0 +1,100 @@
+<!DOCTYPE dataset SYSTEM "dataset.dtd">
+<dataset>
+	<table name="jos_content">
+		<column>id</column>
+		<column>title</column>
+		<column>alias</column>
+		<column>title_alias</column>
+		<column>introtext</column>
+		<column>fulltext</column>
+		<column>state</column>
+		<column>sectionid</column>
+		<column>mask</column>
+		<column>catid</column>
+		<column>created</column>
+		<column>created_by</column>
+		<column>created_by_alias</column>
+		<column>modified</column>
+		<column>modified_by</column>
+		<column>checked_out</column>
+		<column>checked_out_time</column>
+		<column>publish_up</column>
+		<column>publish_down</column>
+		<column>images</column>
+		<column>urls</column>
+		<column>attribs</column>
+		<column>version</column>
+		<column>parentid</column>
+		<column>ordering</column>
+		<column>metakey</column>
+		<column>metadesc</column>
+		<column>access</column>
+		<column>hits</column>
+		<column>metadata</column>
+		<row>
+			<value>100001</value> <!-- id -->
+			<value>Great Barrier Reef</value> <!-- title -->
+			<value>great-barrier-reef</value> <!-- alias -->
+			<value></value> <!-- title_alias -->
+			<value>
+				<p>The Great Barrier Reef is the largest coral reef system composed
+					of over 2,900 individual reefs[3] and 900 islands stretching for
+					over 3,000 kilometres (1,600 mi) over an area of approximately
+					344,400 square kilometres (133,000 sq mi). The reef is located in
+					the Coral Sea, off the coast of Queensland in northeast Australia.</p>
+				\r\n
+				<p>http://en.wikipedia.org/wiki/Great_Barrier_Reef</p>
+			</value> <!-- introtext -->
+			<value>
+				<p>The Great Barrier Reef can be seen from outer space and is the
+					world''s biggest single structure made by living organisms. This
+					reef structure is composed of and built by billions of tiny
+					organisms, known as coral polyps. The Great Barrier Reef supports a
+					wide diversity of life, and was selected as a World Heritage Site
+					in 1981.CNN has labelled it one of the 7 natural wonders of the
+					world. The Queensland National Trust has named it a state icon of
+					Queensland.</p>
+				\r\n
+				<p>A large part of the reef is protected by the Great Barrier Reef
+					Marine Park, which helps to limit the impact of human use, such as
+					overfishing and tourism. Other environmental pressures to the reef
+					and its ecosystem include water quality from runoff, climate change
+					accompanied by mass coral bleaching, and cyclic outbreaks of the
+					crown-of-thorns starfish.</p>
+				\r\n
+				<p>The Great Barrier Reef has long been known to and utilised by the
+					Aboriginal Australian and Torres Strait Islander peoples, and is an
+					important part of local groups'' cultures and spirituality. The
+					reef is a very popular destination for tourists, especially in the
+					Whitsundays and Cairns regions. Tourism is also an important
+					economic activity for the region. Fishing also occurs in the
+					region, generating AU$ 1 billion per year.</p>
+			</value> <!-- fulltext -->
+			<value>1</value> <!-- state -->
+			<value>0</value> <!-- sectionid -->
+			<value>0</value> <!-- mask -->
+			<value>24</value> <!-- catid -->
+			<value>2009-06-22 11:07:08</value> <!-- created -->
+			<value>62</value> <!-- created_by -->
+			<value>sixty-two</value> <!-- created_by_alias -->
+			<value>2009-06-22 11:14:50</value> <!-- modified -->
+			<value>62</value> <!-- modified_by -->
+			<value></value> <!-- checked_out -->
+			<value></value> <!-- checked_out_time -->
+			<value></value> <!-- publish_up -->
+			<value></value> <!-- publish_down -->
+			<value></value> <!-- images -->
+			<value></value> <!-- urls -->
+			<value></value> <!-- attribs -->
+			<value></value> <!-- version -->
+			<value></value> <!-- parentid -->
+			<value></value> <!-- ordering -->
+			<value></value> <!-- metakey -->
+			<value></value> <!-- metadesc -->
+			<value></value> <!-- access -->
+			<value>1</value> <!-- hits -->
+			<value></value> <!-- metadata -->
+		</row>
+	</table>
+
+</dataset>
