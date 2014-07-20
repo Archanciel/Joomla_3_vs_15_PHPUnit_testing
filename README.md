@@ -47,7 +47,7 @@ _Notice that no libraries are required to run or debug the tests !_
 ----------------------------
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_%20ext_tool_run_conf.jpg)
-_the config displayed above is taken from the Joomla3.x project. On a Joomla 1.5 project, only the Joomla root does change !_
+_the config displayed above is taken from the Joomla3.x project. On a Joomla 1.5 project, only the Joomla root part of the path does change !_
 
 ###Warning
 When running the tests in the Joomla 1.5 environnement, the tests succed but the run ends with the stack trace below. I did not figure out why this happens !
@@ -56,6 +56,8 @@ When running the tests in the Joomla 1.5 environnement, the tests succed but the
 
 ###Eclipse debug configuration
 ------------------------------
+
+![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_%20ext_tool_debug_conf.jpg)
 
 Test directory structure
 ------------------------
