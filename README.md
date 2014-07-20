@@ -40,7 +40,7 @@ This will download the PHPUNIT and DBUNIT packaages in the composer\vendor folde
 ----------------------------
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_%20ext_tool_run_conf.jpg)
-_the config displayed here is taken from the Joomla3.x project. On a Joomla 1.5 project, only the Joomla root wxill be different !_
+_the config displayed above is taken from the Joomla3.x project. On a Joomla 1.5 project, only the Joomla root wxill be different !_
 
 ###Eclipse debug configuration
 ------------------------------
