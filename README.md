@@ -46,7 +46,7 @@ _the config displayed above is taken from the Joomla3.x project. On a Joomla 1.5
 ###Warning
 When running the tests in the Joomla 1.5 environnement, the tests run succed but ends with the following stack trace:
 
-![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joom15_error_stack_trace.jpg)
+![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_error_stack_trace.jpg)
 
 ###Eclipse debug configuration
 ------------------------------
