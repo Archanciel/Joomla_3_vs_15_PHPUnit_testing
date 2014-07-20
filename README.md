@@ -39,7 +39,7 @@ This will download the PHPUNIT and DBUNIT packaages in the composer\vendor folde
 ###Eclipse run configuration
 ----------------------------
 
-https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_%20ext_tool_run_conf.jpg
+![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_%20ext_tool_run_conf.jpg)
 
 ###Eclipse debug configuration
 ------------------------------
