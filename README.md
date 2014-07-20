@@ -31,6 +31,8 @@ Unless specifed, the explanations below apply to both version of Joomla !
    }
 }
 ````
+_I did not yet figured out how to set up the run and debug Eclipse configuration with PHPUnit 4+ !_
+
 * open a dos window on the composer folder and type
 ```
 composer install
