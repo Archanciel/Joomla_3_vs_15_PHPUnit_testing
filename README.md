@@ -8,7 +8,7 @@ This repository intends to document how to setup a lightweight PHPUnit testing e
 
 _If you are french speaking, you may be interested by my site: http://plusconscient.net._
 
-###_REST OF DOCUMENTATION TO BE WRITTEN BETW JULY 20TH AND 21ST, 2014_
+###_REST OF DOCUMENTATION TO BE WRITTEN ON JULY 21ST, 2014_
 ------------------------------------------------------
 
 Installing the testing environment
