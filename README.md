@@ -44,7 +44,7 @@ This will download the PHPUNIT and DBUNIT packages in the composer\vendor folder
 _the config displayed above is taken from the Joomla3.x project. On a Joomla 1.5 project, only the Joomla root does change !_
 
 ###Warning
-When running the tests in the Joomla 1.5 environnement, the tests run succed but ends with the following stack trace:
+When running the tests in the Joomla 1.5 environnement, the tests succed but the run ends with the stack trace below. I did not figure out why this happens !
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_error_stack_trace.jpg)
 
