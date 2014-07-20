@@ -19,9 +19,10 @@ Unless specifed, the explanations below apply to both version of Joomla !
 ###Composer
 -----------
 
+* install composer on your workstation (installable available at https://getcomposer.org/)
 * create a composer folder in the root of your Joomla project
 * in the composer folder, create a file named composer.json
-* edit composer.json, typing
+* edit composer.json and add
 ````
 {
     "require-dev": {
@@ -34,7 +35,7 @@ Unless specifed, the explanations below apply to both version of Joomla !
 ```
 composer install
 ```
-This will download the PHPUNIT and DBUNIT packaages in the composer\vendor folder. Composer is easy to use. More info at https://getcomposer.org/.
+This will download the PHPUNIT and DBUNIT packages in the composer\vendor folder. Composer is easy to use. More info at https://getcomposer.org/.
 
 ###Eclipse run configuration
 ----------------------------
