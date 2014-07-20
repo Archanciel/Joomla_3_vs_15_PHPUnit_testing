@@ -17,6 +17,23 @@ Installing the testing environment
 ###Composer
 -----------
 
+* create a composer folder in the root of your Joomla project
+* in the composer folder, create a file named composer.json
+* edit composer.json and write
+````
+{
+    "require-dev": {
+        "phpunit/phpunit": "3.7.37",
+		"phpunit/dbunit": "1.3.1"
+   }
+}
+````
+* open a dos window on the composer folder and type
+```
+composer install
+```
+This will download the PHPUNIT and DBUNIT packaages in the composer\vendor folder. Composer is easy to use. More info at https://getcomposer.org/.
+
 ###Eclipse run configuration
 ----------------------------
 
