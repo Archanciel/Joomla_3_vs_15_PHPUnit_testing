@@ -8,18 +8,20 @@ This repository intends to document how to setup a lightweight PHPUnit testing e
 
 _If you are french speaking, you may be interested by my site: http://plusconscient.net._
 
-#REST OF DOCUMENTATION TO BE WRITTEN ON JULY 20TH, 2014
+###_REST OF DOCUMENTATION TO BE WRITTEN ON JULY 20TH, 2014_
 ------------------------------------------------------
 
 Installing the testing environment
 ----------------------------------
+
+Unless specifed, the explanations below apply to both version of Joomla !
 
 ###Composer
 -----------
 
 * create a composer folder in the root of your Joomla project
 * in the composer folder, create a file named composer.json
-* edit composer.json and write
+* edit composer.json, typing
 ````
 {
     "require-dev": {
