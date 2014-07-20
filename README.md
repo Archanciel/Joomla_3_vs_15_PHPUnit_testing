@@ -41,6 +41,7 @@ This will download the PHPUNIT and DBUNIT packages in the composer\vendor folder
 -----------------------------------
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_include_path.jpg)
+_Notice that no libraries are required to run or debug the tests !_
 
 ###Eclipse run configuration
 ----------------------------
