@@ -57,7 +57,7 @@ When running the tests in the Joomla 1.5 environnement, the tests succed but the
 ###Eclipse debug configuration
 ------------------------------
 
-![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_%20ext_tool_debug_conf.jpg)
+![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_debug_conf.jpg)
 
 Test directory structure
 ------------------------
