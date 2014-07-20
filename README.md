@@ -40,6 +40,9 @@ This will download the PHPUNIT and DBUNIT packages in the composer\vendor folder
 ###Eclipse run configuration
 ----------------------------
 
+![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_include_path.jpg)
+
+
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_%20ext_tool_run_conf.jpg)
 _the config displayed above is taken from the Joomla3.x project. On a Joomla 1.5 project, only the Joomla root does change !_
 
