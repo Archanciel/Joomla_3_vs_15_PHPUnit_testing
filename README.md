@@ -72,10 +72,10 @@ Test directory structure
       unittest // contains PHPUnit tests
 ```
 
-Run tests
+Running tests
 ---------
 
-###From command line
+###At command line
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_run_command_line.jpg)
 
@@ -87,7 +87,7 @@ _Running one selected PHPUnit test_
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_run_all_tests.jpg)
 _Running all PHPUnit tests in the selected folder_
 
-Debug tests from Eclipse
+Debugging tests from Eclipse
 ------------------------
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_debug_selected_test.jpg)
