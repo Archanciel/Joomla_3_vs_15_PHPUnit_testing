@@ -64,6 +64,15 @@ When running the tests in the Joomla 1.5 environnement, the tests succed but the
 Test directory structure
 ------------------------
 
+```
+<Joomla root>
+   TEST
+   data
+   dat
+   lib
+   unittest
+```
+
 Run tests
 ---------
 
