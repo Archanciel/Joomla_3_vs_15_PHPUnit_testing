@@ -79,7 +79,7 @@ Running tests
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_run_command_line.jpg)
 
-###From Eclipse
+###In Eclipse
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_run_selected_test.jpg)
 _Running one selected PHPUnit test_
@@ -87,7 +87,7 @@ _Running one selected PHPUnit test_
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_run_all_tests.jpg)
 _Running all PHPUnit tests in the selected folder_
 
-Debugging tests from Eclipse
+Debugging tests in Eclipse
 ------------------------
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_debug_selected_test.jpg)
