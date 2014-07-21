@@ -78,6 +78,7 @@ Run tests
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_run_selected_test.jpg)
 _Running one selected PHPUnit test_
 
+
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_run_all_tests.jpg)
 _Running all PHPUnit tests in the selected folder_
 
