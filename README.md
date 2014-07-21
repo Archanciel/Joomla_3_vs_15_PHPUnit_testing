@@ -89,3 +89,5 @@ _Running all PHPUnit tests in the selected folder_
 
 Debug tests from Eclipse
 ------------------------
+
+![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_debug_selected_test.jpg)
