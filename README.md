@@ -67,10 +67,9 @@ Test directory structure
 ```
 <Joomla root>
    TEST
-   data
-   dat
-   lib
-   unittest
+      data
+      lib
+      unittest
 ```
 
 Run tests
