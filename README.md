@@ -8,7 +8,7 @@ This repository intends to document how to setup a lightweight PHPUnit testing e
 
 _If you are french speaking, you may be interested by my site: http://plusconscient.net._
 
-###_REST OF DOCUMENTATION TO BE WRITTEN ON JULY 21ST, 2014_
+_This readme file was written with the free [Dillinger Markdown editor](http://dillinger.io/)_
 ------------------------------------------------------
 
 Installing the testing environment
