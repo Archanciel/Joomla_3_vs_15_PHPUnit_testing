@@ -92,7 +92,7 @@ Debugging tests in Eclipse
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_debug_selected_test.jpg)
 
-Disabling coverage to increase test execution speed
+Disabling coverage to increase test speed
 ---------------------------------------------------
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Joo15_3x_disable_coverage.jpg)
