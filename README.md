@@ -123,3 +123,5 @@ _Do not forget to refresh the Eclipse folder !_
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Makegood_properties.jpg)
 
 _Finally, edit the MakeGood properties accessed in the project properties_
+
+You now are able to run and debug your tests with the MakeGood plugin, as explained in the [MakeGood user guide](http://piece-framework.com/projects/makegood/wiki/MakeGood_User_Guide_1_7_0)
