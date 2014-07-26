@@ -101,4 +101,19 @@ Using MakeGood to run and debug tests
 -------------------------------------
 
 ###Install MakeGood 3.1.1 or later
-Previous versions either not compatible with Eclipse PDT Luna or bogged down. Releases are listed [here](https://github.com/piece/makegood/releases). But normally, install from Eclipse Marketplace !
+Previous versions either not compatible with Eclipse PDT Luna or bogged down. Releases are listed [here](https://github.com/piece/makegood/releases). But normally, install from Eclipse Marketplace like any Eclipse plugin !
+
+###Create preload PHP script somewhere in your workspace with content similar to
+````
+<?php
+	// Setup the path related constants.
+	define ( 'DS', DIRECTORY_SEPARATOR );
+	require dirname ( __DIR__ ) . DS . 'composer' . DS . 'vendor' . DS . 'autoload.php';
+?>
+````
+
+![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Makegood_script_loc.jpg)
+
+![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Makegood_refresh.jpg)
+
+![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Makegood_properties.jpg)
