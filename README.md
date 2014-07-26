@@ -113,10 +113,11 @@ Previous versions either not compatible with Eclipse PDT Luna or bogged down. Re
 ````
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Makegood_script_loc.jpg)
-_Here, the preload script is put in the TEST folder
+
+_Here, the preload script is put in the TEST folder_
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Makegood_refresh.jpg)
-_Do not forget to refresh the Eclipse folder !
+_Do not forget to refresh the Eclipse folder !_
 
 ![](https://github.com/Archanciel/Joomla_3_vs_15_PHPUnit_testing/blob/master/Github_doc/Makegood_properties.jpg)
-_Finally, edit the MakeGood properties accessed in the project properties
+_Finally, edit the MakeGood properties accessed in the project properties_
