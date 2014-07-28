@@ -26,16 +26,17 @@ define ( 'JPATH_ROOT', JPATH_BASE );
 define ( 'JPATH_ADMINISTRATOR', JPATH_BASE . DS . 'administrator' );
 define ( 'JPATH_CONFIGURATION', JPATH_BASE );
 define ( 'JPATH_LIBRARIES', JPATH_BASE . DS . 'libraries' );
+define ( 'JPATH_LIBRARIES_JOOMLA', JPATH_LIBRARIES . DS . 'joomla' );
 define ( 'JPATH_METHODS', JPATH_ROOT . DS . 'methods' );
 
 // Load the library importer, datbase + table classes and configuration
 require_once (JPATH_LIBRARIES . DS . 'import.legacy.php');
 require_once (JPATH_LIBRARIES . DS . 'legacy' . DS . 'request' . DS . 'request.php');
 require_once (JPATH_LIBRARIES . DS . 'cms' . DS . 'version' . DS . 'version.php');
-require_once (JPATH_LIBRARIES . DS . 'joomla' . DS . 'object' . DS . 'object.php');
+require_once (JPATH_LIBRARIES_JOOMLA . DS . 'object' . DS . 'object.php');
 
-require_once (JPATH_LIBRARIES . DS . 'joomla' . DS . 'database' . DS . 'database.php');
-require_once (JPATH_LIBRARIES . DS . 'joomla' . DS . 'table' . DS . 'table.php');
+require_once (JPATH_LIBRARIES_JOOMLA . DS . 'database' . DS . 'database.php');
+require_once (JPATH_LIBRARIES_JOOMLA . DS . 'table' . DS . 'table.php');
 require_once (JPATH_CONFIGURATION . DS . 'configuration.php');
 require_once (JPATH_LIBRARIES . DS . 'cms.php');
 
